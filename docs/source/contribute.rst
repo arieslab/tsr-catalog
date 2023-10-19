@@ -1,4 +1,4 @@
-Contributing to JNose Test project
+Contributing to Factor-T
 =============================
 
 Are you here to help on Factor-T project? Awesome!
