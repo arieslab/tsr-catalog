@@ -7,6 +7,6 @@ JUnit4 to give an explanatory message to the user when the assertion fails. In t
 
 Example from practice:
 
-.. figure:: /pdfs/Listing5.pdf
+.. image:: /pdfs/Listing5.pdf
    :alt: Assertion Roulette
    :align: center
