@@ -36,6 +36,6 @@ The `testMirrorSourceConnectorTaskConfig <https://github.com/apache/kafka/blob/d
 
 
 *Refactorings:*
-:octicon:`sync;1em` ref:`Add message`
-:octicon:`sync;1em` ref:`Split assert`
-:octicon:`sync;1em` ref:`Surround asserttrhows`
+* Add an explanation message to the assertion: :ref:`Add Message`
+* Slit assertions into single test methods: :ref:`Split assert`
+* Surround assertions with assertAll :ref:`Surround asserttrhows`
