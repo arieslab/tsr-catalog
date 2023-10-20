@@ -1,15 +1,22 @@
 Assertion Roulette
 =====================
 
-*Definition:* Occurs when a test method has multiple non-documented assertions. 
+**Definition:**
 
-*Consequences:* Multiple assertion statements in a test method without a descriptive message impact readability/understandability/maintainability 
+It occurs when a test method has multiple non-documented assertions.
+
+**Consequences:**
+
+Multiple assertion statements in a test method without a descriptive message impact readability/understandability/maintainability
 as it’s not possible to understand the reason for the failure of the test.
 
-*Detection:* 
-- *Identify undocumented assertions in a test method.* It consists of identifying test methods with more than one assertion statement without an explanation/message (parameter in the assertion method).
+**Detection:**
+
+#. *Identify undocumented assertions in a test method.* It consists of identifying test methods with more than one
+assertion statement without an explanation/message (parameter in the assertion method).
   
-*Example:*
+**Example:**
+
 The `testMirrorSourceConnectorTaskConfig <https://github.com/apache/kafka/blob/db288e4a64cf41501c445b13e778e4d225a48a14/connect/mirror/src/test/java/org/apache/kafka/connect/mirror/MirrorSourceConnectorTest.java>`_. test method from Kafka project contains an Assertion Roulette.  
 
 .. code-block:: java
@@ -34,8 +41,8 @@ The `testMirrorSourceConnectorTaskConfig <https://github.com/apache/kafka/blob/d
   }
 
 
-*Refactorings:*
+**Refactorings:**
 
-* Add an explanation message to the assertion: :ref:`Add Message`
-* Slit assertions into single test methods: :ref:`Split assert`
-* Surround assertions with assertAll :ref:`Surround asserttrhows`
+* :ref:`Add Message`
+* :ref:`Split assert`
+* :ref:`Surround asserttrhows`
