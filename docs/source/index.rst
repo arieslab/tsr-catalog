@@ -5,13 +5,6 @@ The catalog outlines the reengineering process for conducting test-specific refa
 
 This manual is licensed under the `Creative Commons Attribution-NonCommercial-ShareAlike License <https://creativecommons.org/licenses/by-nc-sa/1.0/>`_.
 
-
-Catalog of Test Refactoring
-------------------------------
-
-Test smell X description
-Link to ref1 Link to ref2
-
    
 Test Smells 
 ------------------------------
