@@ -20,4 +20,4 @@ and scope of different test suites.
 
 **Refactorings:**
 
-* :ref:`Rename class:`
+* :ref:`Rename class`
