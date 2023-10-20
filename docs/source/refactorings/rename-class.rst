@@ -1,5 +1,5 @@
 .. _Rename class:
- Replace the try/catch block and the @Test expected and @Rule annotations with the assertThrows method
+Rename class
 ===========================================
 
 **Definition:**

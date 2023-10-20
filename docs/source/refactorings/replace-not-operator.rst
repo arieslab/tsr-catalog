@@ -22,7 +22,7 @@ condition is false (line 293, highlighted in red). The refactoring of the assert
 
 #. removal of the *not (!)* operator within the conditional expression,
 #. replace the *assertTrue* method with the *assertFalse* method (line 293, highlighted in green).
-In addition, the developer could also use the *assertThat* method instead of the *.contains* method.
+
 
 .. image:: /pdfs/Listing9.png
    :alt: Replacing the *assertTrue* method with the *assertFalse* method
