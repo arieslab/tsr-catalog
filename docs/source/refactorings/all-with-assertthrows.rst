@@ -1,6 +1,7 @@
-.. _All with assertthrows:
- Replace the try/catch block and the @Test expected and @Rule annotations with the assertThrows method
-===========================================
+.. _Replace the try/catch, @Test expected and @Rule annotations with the assertThrows method:
+
+Replace the try/catch, @Test expected and @Rule annotations with the assertThrows method
+=====================================================================================================
 
 **Definition:**
 
