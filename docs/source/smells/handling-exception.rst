@@ -25,4 +25,4 @@ exception to pass or fail the test.
 **Refactorings:**
 
 * :ref:`Try with test annotation`
-* :ref:`All with assertthrows`
+* :ref:`Replace the try/catch, @Test expected and @Rule annotations with the assertThrows method`
