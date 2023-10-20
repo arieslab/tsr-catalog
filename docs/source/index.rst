@@ -19,7 +19,7 @@ Learn about test smells.
 * :doc:`Redundant Print </smells/redundant-print>`
 * :doc:`Empty Test </smells/empty-test>`
 * :doc:`Unknown Test </smells/unknown-test>`
-* :doc:`Sleep Test </smells/sleep-test>`
+* :doc:`Sleepy Test </smells/sleepy-test>`
 
 
 .. toctree::
@@ -35,7 +35,7 @@ Learn about test smells.
    /smells/redundant-print
    /smells/empty-test
    /smells/unknown-test
-   /smells/sleep-test
+   /smells/sleepy-test
 
 
 Test Refactorings
