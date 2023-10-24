@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Factor-T'
+project = 'TSR-Catalog'
 copyright = '2023, Luana'
 author = 'Luana'
 
