@@ -1,4 +1,4 @@
-Welcome to Factor-T Catalog: The Open Catalog of Test Refactorings 
+Welcome to TSR-Catalog: The Catalog of Test Smells Refactorings 
 ===================================
 
 The catalog outlines the reengineering process for conducting test-specific refactorings to remove test smells. Initially, the catalog unifies information on test smells and test refactorings manually classified from 375 test files from Apache Foundation. 
@@ -72,7 +72,7 @@ Learn about test refactorings.
 About us
 ------------------------------
 
-Learn about the ARIES Lab organization to find out how you can get involved and contribute to the development and success of FactorT and many others!
+Learn about the ARIES Lab organization to find out how you can get involved and contribute to the development and success of TSR-Catalog and many others!
 
 * :doc:`Contributing </contribute>`
 * :doc:`Our Team </team>`
