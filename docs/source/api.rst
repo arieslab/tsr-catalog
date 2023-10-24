@@ -4,4 +4,4 @@ API
 .. autosummary::
    :toctree: generated
 
-   Factor-T
+   TSR-Catalog
